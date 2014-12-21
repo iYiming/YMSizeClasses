@@ -6,4 +6,4 @@ YMSizeClasses
 
 横屏下：  
 
-![YMSizeClasse_02](YMScreenshots/YMSizeClasse_02.png)  
+![YMSizeClasse_02](YMScreenshots/YMSizeClasses_02.png)  
