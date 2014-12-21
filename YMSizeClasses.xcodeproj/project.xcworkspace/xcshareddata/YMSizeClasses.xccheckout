@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2634C9F3-8961-4119-8A81-5EA29A50C14B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>YMSizeClasses</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0E98A9C309D58E4FCF77FA6D77F28FA01254AAC3</key>
+		<string>https://github.com/iYiming/YMSizeClasses.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>YMSizeClasses.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0E98A9C309D58E4FCF77FA6D77F28FA01254AAC3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/iYiming/YMSizeClasses.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0E98A9C309D58E4FCF77FA6D77F28FA01254AAC3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0E98A9C309D58E4FCF77FA6D77F28FA01254AAC3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>YMSizeClasses</string>
+		</dict>
+	</array>
+</dict>
+</plist>
