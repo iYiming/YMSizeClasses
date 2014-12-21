@@ -2,8 +2,8 @@ YMSizeClasses
 =============
 竖屏下：  
 
-![Auto Layout](ScreenShots/YMSizeClasses_01.png)  
+![YMSizeClasses_01](ScreenShots/YMSizeClasses_01.png)  
 
 横屏下：  
 
-![Auto Layout](ScreenShots/YMSizeClasse_02.png)  
+![YMSizeClasse_02](ScreenShots/YMSizeClasse_02.png)  
